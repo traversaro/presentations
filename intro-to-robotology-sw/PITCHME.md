@@ -10,12 +10,10 @@
 ---
 ### Why we develop software 
 
----?image=assets/image/robots.png&size=auto
+![Robot](assets/image/robots.jpg)
 
 ---
-#### Alternatives to software
-
 ##### Centrifugal governor
----?image=assets/image/centrifugal-governor.png&size=auto
+![Centrifugal Governor](assets/image/centrifugal-governor.jpg)
 
 

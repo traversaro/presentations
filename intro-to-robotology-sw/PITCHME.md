@@ -10,10 +10,10 @@
 ---
 ### Why we develop software 
 
-![Robot](assets/image/robots.jpg)
+![Robot](assets/image/robots.png)
 
 ---
 ##### Centrifugal governor
-![Centrifugal Governor](assets/image/centrifugal-governor.jpg)
+![Centrifugal Governor](assets/image/centrifugal-governor.png)
 
 
